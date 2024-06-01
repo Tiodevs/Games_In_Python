@@ -1,4 +1,4 @@
-# Eu criei esse projeto para colocar em pratica os meus estudos em Python
+# Projeto da faculdade para colocar em pratica o que estou aprendendo sobre Python
 ## É uma junção de dois jogos para Terminal
 
 Assim que o codigo é executado aparece um menu onde você pode escolher entre duas alternativas:
